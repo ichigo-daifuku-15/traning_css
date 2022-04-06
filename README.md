@@ -1,2 +1,2 @@
-このサイトで勉強します。 
-http://ysd-lab.jp/markup/learn.html
+このサイトで勉強します。
+https://developer.mozilla.org/ja/docs/Learn/CSS
