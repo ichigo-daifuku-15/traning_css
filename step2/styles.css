@@ -1,0 +1,23 @@
+.outer {
+  border: 5px solid black;
+  background-color: blue;
+}
+
+.box {
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  /* このバックグラウンドカラーは上書きされる */
+  background-color: red;
+  /* background: url(bg-graphic.png) 10px 10px repeat-x fixed; */
+}
+
+body {
+  background-color: pink;
+}
+
+@media (min-width: 700px) {
+  body {
+    background-color: blue;
+  }
+}
