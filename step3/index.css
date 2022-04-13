@@ -1,0 +1,19 @@
+h1 {
+  color: blue !important;
+}
+h1 {
+  color: brown !important;
+}
+/* body {
+  color: blueviolet;
+  width: 50%;
+} */
+.main {
+  color: green;
+  border: 2px solid #ccc;
+  padding: 3em;
+}
+.o-i {
+  color: orange;
+  font-weight: bold;
+}
